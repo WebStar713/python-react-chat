@@ -10,8 +10,6 @@ This repository hosts the codebase for the [Python Chat Tutorial with Django and
 
 **1. Clone the Repository**
 
-`git clone git@github.com:GetStream/python-chat-example.git`
-
 **2. Setup Dependencies**
 
 - `brew install python3`
